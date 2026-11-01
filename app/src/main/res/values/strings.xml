@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Android Studio Mobile IDE</string>
+    <string name="welcome_title">Android Studio Mobile</string>
+    <string name="welcome_subtitle">بيئة تطوير أندرويد متكاملة واحترافية على هاتفك</string>
+    <string name="new_project">مشروع جديد</string>
+    <string name="open_project">فتح مشروع</string>
+    <string name="recent_projects">المشاريع الأخيرة</string>
+    <string name="no_recent_projects">لا توجد مشاريع سابقة، ابدأ بإنشاء مشروعك الأول!</string>
+    <string name="project_name">اسم التطبيق</string>
+    <string name="package_name">اسم الحزمة</string>
+    <string name="template">القالب البرمجي</string>
+    <string name="create_project">إنشاء المشروع</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="build">بناء APK</string>
+    <string name="run">تشغيل / تثبيت</string>
+    <string name="terminal">الطرفية</string>
+    <string name="logs">سجل البناء</string>
+    <string name="files">الملفات</string>
+    <string name="editor">المحرر</string>
+    <string name="dependencies">الاعتماديات</string>
+    <string name="sdk_manager">أدوات SDK</string>
+    <string name="diagnostics">التشخيص والأخطاء</string>
+    <string name="ai_assistant">مساعد الذكاء الاصطناعي</string>
+    <string name="settings">الإعدادات</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Android Studio Mobile IDE",
+  "description": "Professional mobile IDE for Android development: project management, tree file explorer, multi-tab syntax highlighted code editor, terminal, APK builder, dependency manager, diagnostics and AI coding assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
